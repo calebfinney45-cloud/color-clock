@@ -13,5 +13,7 @@ A dynamic digital clock application built with **React** and **date-fns**. This 
 
 ## 📦 How to Run
 1.Clone the repository or download the files.
+
 2.Run `npm install` to download the `date-fns` dependency.
+
 3.Run `npm run dev`/`npm start` to launch the clock in your browser.
